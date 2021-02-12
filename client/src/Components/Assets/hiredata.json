@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "WAREHOUSING EXECUTIVES/SUPERVISER",
+    "logo": "./images/woman.png",
+    "age": 465454,
+    "contact": [9999911111],
+    "locationCity": "Solapur",
+    "locationState": "Maharashtra",
+    "timeAvailability": "11am - 7pm",
+    "dayAvailability": "Weekdays",
+    "experienced": true,
+    "skills": ["CARPENTER", "ELECTRICIAN"]
+  },
+  {
+    "id": 2,
+    "name": "MOBILIZER",
+    "logo": "./images/woman.png",
+    "age": 255154,
+    "contact": [7890563412, "suzuki@gmail.com"],
+    "locationCity": "Sunam",
+    "locationState": "Punjab",
+    "timeAvailability": "10am - 1pm",
+    "dayAvailability": "Weekdays",
+    "experienced": true,
+    "skills": ["CARPENTER"]
+  },
+  {
+    "id": 3,
+    "name": "CUSTOMER CARE EXECUTIVE",
+    "logo": "./images/woman.png",
+    "age": 3541547,
+    "contact": [8888899999, "toyota@gmail.com"],
+    "locationCity": "Vellore",
+    "locationState": "Tamil Nadu",
+    "timeAvailability": "6am - 10am",
+    "dayAvailability": "Complete Week",
+    "experienced": true,
+    "skills": ["WORKER", "BUILDER"]
+  },
+  {
+    "id": 4,
+    "name": "WAREHOUSING EXECUTIVES/SUPERVISER",
+    "logo": "./images/woman.png",
+    "age": 25156,
+    "contact": [898989898989, "tatasteels@gmail.com"],
+    "locationCity": "Gulbarga",
+    "locationState": "Karnataka",
+    "timeAvailability": "8am - 6pm",
+    "dayAvailability": "Complete Week",
+    "experienced": true,
+    "skills": [ "ELECTRICIAN", "CARPENTER"]
+  },
+  {
+    "id": 5,
+    "name": "ELECTRICIAN ",
+    "logo": "./images/woman.png",
+    "age": 2545453,
+    "contact": [7777777777],
+    "locationCity": "Sambalpur",
+    "locationState": "Odisha",
+    "timeAvailability": "9am - 5pm",
+    "dayAvailability": "Weekdays",
+    "experienced": false,
+    "skills": [ "ELECTRICIAN","MECHANIC"]
+  },
+  {
+    "id": 6,
+    "name": "WAREHOUSING EXECUTIVES/SUPERVISER",
+    "logo": "./images/woman.png",
+    "age": 344545,
+    "contact": [98798798777],
+    "locationCity": "Indore",
+    "locationState": "Madhya Pradesh",
+    "timeAvailability": "10am - 4pm",
+    "dayAvailability": "Weekends",
+    "experienced": true,
+    "skills": [ "ELECTRICIAN"]
+  }
+]

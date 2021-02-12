@@ -1,0 +1,104 @@
+.profileImg {
+  position: absolute;
+  display: flex;
+    /* display: inline-block; */
+    vertical-align: middle;
+    border-radius: 10%;
+    height: 88px;
+    width: 88px;
+    right: 1200px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    background-color:black;
+  }
+  .fetching{
+    
+    text-align: center;
+    font: bold;
+    
+    font-weight: 800;
+    color: white;
+  }
+  .skill{
+    /* background-color:mediumpurple; */
+     padding: 2px;
+     
+  }
+  .ml-5{
+    color: rgb(15, 15, 15);
+    border-radius: 30px;
+    background-color:rgb(150, 139, 139);
+    text-align: center;
+    font-weight: bold;
+  }
+  .cardInfo {
+    
+    font-family: sans-serif;
+    display: inline;
+    height: 20px;
+    width: 20px;
+  }
+  
+  .search-box {
+    border: 2px solid;
+    width: 80%;
+    border-radius: 15px;
+    margin-left: 120px;
+    padding: 10px;
+    margin-bottom: 40px;
+  }
+  
+  .search-box:hover {
+    background-color: rgb(235, 232, 220);
+    border: 0;
+  }
+  
+  .search-box:focus {
+    background-color: rgba(253,230,138);
+    border: 0;
+    outline: none;
+  }
+  .btn12 {
+    text-decoration: none;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-weight:700;
+    border-radius: 5px;
+    font-size: 12px;
+    padding: 5px 40px;
+    margin-left: 80px;
+    
+}
+.btn-smart12{
+    background:crimson;
+}
+.skillclass{
+  color: #fff;
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  border-radius: 40px;
+}
+.skillclass1{
+  color: #fff;
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  border-radius: 40px;
+}
+.btn123 {
+  text-decoration: none;
+  border: none;
+  outline: none;
+  color: #fff;
+  font-weight:700;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 5px 40px;
+  margin-left: 80px;
+  
+}
+.btn-smart123{
+  background:rgb(73, 60, 60);
+}
